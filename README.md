@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **my skill development and my financial growth**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZaHuPro](https://github.com/ZaHuPro)
+- 👨‍💻 All of my projects are available at [https://gitlab.com/jHussain](https://gitlab.com/jHussain/dapps) and [https://github.com/ZaHuPro](https://github.com/ZaHuPro)
 
 - 💬 Ask me about **react, nextJS, graphQL and any other JS and TS framworks**
 
